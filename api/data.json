@@ -1,0 +1,16 @@
+{
+  "devs": [
+    {
+      "id": "9da5",
+      "name": "Johirul Islam",
+      "age": 100,
+      "skill": "Next JS"
+    },
+    {
+      "id": "2800",
+      "name": "Yasin Arafat Khan Voiya",
+      "age": 200,
+      "skill": "React JS"
+    }
+  ]
+}
